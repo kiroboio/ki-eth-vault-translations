@@ -204,10 +204,5 @@
     "connectors": {
         "connectedWith": "Connected with",
         "metamask": "Metamask"
-    },
-    "newTranslation": {
-        "new": "lol",
-        "new2": "aaaaaaaaaa"
-    },
-    "test": "aaadddff"
+    }
 }
