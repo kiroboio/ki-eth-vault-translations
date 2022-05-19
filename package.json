@@ -1,0 +1,19 @@
+{
+  "name": "ki-eth-vault-translations",
+  "version": "1.0.0",
+  "description": "Public translations project for vault",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kiroboio/ki-eth-vault-translations.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kiroboio/ki-eth-vault-translations/issues"
+  },
+  "homepage": "https://github.com/kiroboio/ki-eth-vault-translations#readme"
+}
