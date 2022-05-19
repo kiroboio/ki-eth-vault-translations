@@ -204,6 +204,5 @@
     "connectors": {
         "connectedWith": "Connected with",
         "metamask": "Metamask"
-    },
-    "test": "test"
+    }
 }
