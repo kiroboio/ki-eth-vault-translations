@@ -1,10 +1,10 @@
 {
     "activities": {
         "activity": "my nice translation",
-        "amount": "lol",
-        "address": "aaa",
-        "status": "uuu",
-        "date": "aa",
+        "amount": "",
+        "address": "",
+        "status": "",
+        "date": "",
         "all": "",
         "transfers": "",
         "system": "",
