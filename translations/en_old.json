@@ -1,344 +1,345 @@
 {
-    "general": {
-        "simpleMode": "Simple mode",
-        "advancedMode": "Advanced mode",
-        "hide": "Hide",
-        "yes": "Yes",
-        "no": "No",
-        "yourWallet": "Your wallet",
-        "sendToExternalWallet": "Send to external wallet",
-        "out": "out",
-        "sendNFT": "Send NFT",
-        "nftPreview": "NFT Preview",
-        "congratsOnCreatingVault": "Great, you have created your Liquid Vault!",
-        "addFundsAndStartProtect": "Now, let’s add funds and start protecting them",
-        "addAsset": "Add Asset",
-        "protectByAddingBackupAndInheritance": "Protect your funds by adding backup and inheritance",
-        "addInheritance": "Add inheritance to fully protect your funds",
-        "addBackup": "Add backup to fully protect your funds",
-        "yourWalletBalance": "Your wallet balance",
-        "transfer": "Transfer",
-        "waitingForActivation": "Waiting for activation...",
-        "instructionsMessage": "If you plan to move a large amount of Ether or tokens, you should send a test transaction of a small amount to the destination wallet first to ensure everything goes as planned. Optional, but highly recommended",
-        "paymentMessage": "Payment will be taken upon activation.",
-        "wrongNetwork": "This application currently supports only Rinkeby network.",
-        "newTransaction": "New transaction",
-        "connectedWith": "Connected with",
-        "liquidVault": "Liquid vault",
-        "yourVaultIs": "Your vault is",
-        "token": "Token",
-        "divideYourAssets": "Divide your assets",
-        "manage": "manage",
-        "unprotected": "unprotected",
-        "notProtected": "not protected",
-        "activate": "Activate",
-        "receiveFromConnectedWallet": "Receive from connected wallet",
-        "verify": "Verify",
-        "enterDate": "Enter Date",
-        "date": "Date",
-        "willBeTransferred": "Will be transferred",
-        "sentSuccessfully": "Sent successfully",
-        "approve": "Approve",
-        "accept": "Accept",
-        "saveToApply": "Save to apply changes",
-        "save": "save",
-        "saveChanges": "save changes",
-        "selectToken": "Select a Token",
-        "willBeSent": "Will be sent",
-        "close": "close",
-        "fromYourVault": "From Your Vault",
-        "fromYourWallet": "From Your Wallet",
-        "toMoveAssets": "To move assets to your Vault press on desired one",
-        "pressMoveButton": "Press move button"
+  "general": {
+    "simpleMode": "Simple mode",
+    "advancedMode": "Advanced mode",
+    "hide": "Hide",
+    "yes": "Yes",
+    "no": "No",
+    "yourWallet": "Your wallet",
+    "sendToExternalWallet": "Send to external wallet",
+    "out": "out",
+    "sendNFT": "Send NFT",
+    "nftPreview": "NFT Preview",
+    "congratsOnCreatingVault": "Great, you have created your Liquid Vault!",
+    "addFundsAndStartProtect": "Now, let’s add funds and start protecting them",
+    "addAsset": "Add Asset",
+    "protectByAddingBackupAndInheritance": "Protect your funds by adding backup and inheritance",
+    "addInheritance": "Add inheritance to fully protect your funds",
+    "addBackup": "Add backup to fully protect your funds",
+    "yourWalletBalance": "Your wallet balance",
+    "transfer": "Transfer",
+    "waitingForActivation": "Waiting for activation...",
+    "instructionsMessage": "If you plan to move a large amount of Ether or tokens, you should send a test transaction of a small amount to the destination wallet first to ensure everything goes as planned. Optional, but highly recommended",
+    "paymentMessage": "Payment will be taken upon activation.",
+    "wrongNetwork": "This application currently supports only Rinkeby network.",
+    "newTransaction": "New transaction",
+    "connectedWith": "Connected with",
+    "liquidVault": "Liquid vault",
+    "yourVaultIs": "Your vault is",
+    "token": "Token",
+    "divideYourAssets": "Divide your assets",
+    "manage": "manage",
+    "unprotected": "unprotected",
+    "notProtected": "not protected",
+    "activate": "Activate",
+    "receiveFromConnectedWallet": "Receive from connected wallet",
+    "verify": "Verify",
+    "enterDate": "Enter Date",
+    "date": "Date",
+    "willBeTransferred": "Will be transferred",
+    "sentSuccessfully": "Sent successfully",
+    "approve": "Approve",
+    "accept": "Accept",
+    "saveToApply": "Save to apply changes",
+    "save": "save",
+    "saveChanges": "save changes",
+    "selectToken": "Select a Token",
+    "willBeSent": "Will be sent",
+    "close": "close",
+    "fromYourVault": "From Your Vault",
+    "fromYourWallet": "From Your Wallet",
+    "toMoveAssets": "To move assets to your Vault press on desired one",
+    "pressMoveButton": "Press move button"
+  },
+  "nft": {
+    "moveNft": "Move NFT",
+    "sendNFt": "Send NFT"
+  },
+  "connectors": {
+    "trustWallet": "Trust Wallet",
+    "walletLink": "Coinbase Wallet",
+    "myEtherWallet": "My Ether Wallet"
+  },
+  "activities": {
+    "send": "Send",
+    "activities": "Activities",
+    "transfer": "Transfer",
+    "receive": "Receive",
+    "loadingItems": "Loading Items",
+    "test": "Test"
+  },
+  "table": {
+    "columns": {
+      "tokenName": "Token name",
+      "amount": "Amount",
+      "price": "Price",
+      "change24": "24H change",
+      "marketCap": "Market Cap",
+      "dayTread30d": "30 Day Tread"
     },
-    "nft": {
-        "moveNft": "Move NFT",
-        "sendNFt": "Send NFT"
-    },
-    "connectors": {
-        "trustWallet": "Trust Wallet",
-        "walletLink": "Coinbase Wallet",
-        "myEtherWallet": "My Ether Wallet"
-    },
-    "activities": {
-        "send": "Send",
-        "activities": "Activities",
-        "transfer": "Transfer",
-        "receive": "Receive",
-        "loadingItems": "Loading Items"
-    },
-    "table": {
-        "columns": {
-            "tokenName": "Token name",
-            "amount": "Amount",
-            "price": "Price",
-            "change24": "24H change",
-            "marketCap": "Market Cap",
-            "dayTread30d": "30 Day Tread"
-        },
-        "mobileColumns": {
-            "tokenName": "Token name",
-            "amount": "Amount"
-        }
-    },
-    "unlockInfo": {
-        "create": "Create a vault and start protecting your funds by using the backup and inheritance system",
-        "send": "Send & Receive funds",
-        "protect": "Protect by adding Backup wallet",
-        "inheritance": "Inheritance system"
-    },
-    "backup": {
-        "backupCreationProcessWarning": "Your’e in a backup creation process, please connect with your backup wallet to approve the request",
-        "claimOwnership": "Claim ownership",
-        "dontHaveBackup": "You do not have a backup wallet yet ",
-        "timerDescription": "Once the timer runs out, the vault enters a standby mode and allows your backup wallet to take ownership. The timer is defined in pause mode and can be started by either the main wallet or the backup wallet",
-        "createDescription": "Add backup wallet to your vault and protect your money",
-        "enterAddress": "Enter your backup wallet address",
-        "addBackup": "Add Backup",
-        "loginToApprove": "log in with your backup wallet and approve the request to register the wallet",
-        "myBackup": "My Backup",
-        "approveDescription": "Approve and become the backup owner for this Liquid Vault",
-        "summary": "Summary",
-        "summaryDescription": "Please make sure everything is as you wish",
-        "drawer": {
-            "instructions": {
-                "title": "Set backup"
-            },
-            "deleteInstructions": {
-                "title": "Remove Backup"
-            },
-            "centerMessage": {
-                "title": "Setup backup wallet",
-                "message": "If you are the owner of BackupWallet, Login with BackupWallet and approve request, or wait until the BackupWallet owner will respond."
-            },
-            "approve": {
-                "instructions": {
-                    "title": "Pending BackupWallet"
-                },
-                "title": "This account was defined as BackupWallet",
-                "addressTitle": "Wallet address that set you up",
-                "message": "If you approve, this account will only be BackupWallet as long as",
-                "buttons": {
-                    "approve": "Approve",
-                    "disApprove": "Disapprove"
-                }
-            },
-            "startTimer": {
-                "title": "Start timer.",
-                "message": "If you start the timer, you will be able to get ownership after the time's up",
-                "buttons": {
-                    "start": "Start timer"
-                }
-            },
-            "reclaim": {
-                "instructions": {
-                    "title": "Reclaim ownership"
-                },
-                "actions": {
-                    "reclaim": "Reclaim",
-                    "claim": "Claim"
-                }
-            },
-            "resetTimer": {
-                "instructions": {
-                    "title": "Reset Timer"
-                },
-                "message": "Current time left",
-                "buttons": {
-                    "reset": "Reset"
-                }
-            }
-        },
-        "button": "Send request",
-        "messages": {
-            "waitingToRespond": "Waiting for backup to respond...",
-            "waitingForApproval": "Waiting for backup request approval",
-            "waitingForActivation": "Waiting for activation...",
-            "activated": "Backup activated",
-            "noBackup": "No backup detected"
-        },
-        "details": {
-            "title": "Backup-Wallet",
-            "subTitleAddress": "Backup-Wallet address",
-            "ownerAddress": "Owner address",
-            "timeout": "Timeout",
-            "edit": "Edit Backup",
-            "timeLeft": "Timeleft",
-            "timer": "Timer",
-            "reset": "Reset"
-        }
-    },
-    "navigation": {
-        "404": "Page not found",
-        "unlock": "Please, unlock your wallet"
-    },
-    "tooltip": {
-        "copy": "Copy",
-        "logOut": "Log out"
-    },
-    "header": {
-        "network": {
-            "hover": "Internet connectivity status"
-        },
-        "account": {
-            "hover": "Current account"
-        }
-    },
-    "wallets": {
-        "noMultiWallet": {
-            "notDetected": "No Multi-Layer On-Chain Wallet detected.",
-            "createNew": "You should create On-chain Wallet."
-        }
-    },
-    "dashboard": {
-        "left": {
-            "label": "Regular Wallet"
-        },
-        "right": {
-            "label": "Multi-Layer On-Chain Wallet",
-            "ownerWallet": "Owner wallet address",
-            "buttons": {
-                "approve": "Approve / Disapprove"
-            }
-        },
-        "address": "Address"
-    },
-    "send": {
-        "instructions": {
-            "title": "Transfer money"
-        }
-    },
-    "unlock": {
-        "subTitle": "Kirobo Safe is the most trusted platform to manage digital assets. Here is how to get started:",
-        "metamask": {
-            "noMetamask": "No MetaMask detected, please install MetaMask to you web browser"
-        },
-        "dialog": {
-            "title": "Unlock Ledger Wallet",
-            "instructions": [
-                "Make sure your Ledger device is connected",
-                "Make sure you installed Ethereum on your Ledger device via <a target=\"_blank\" rel=\"external\" href=\"https://www.ledger.com/pages/ledger-live\">Ledger Live</a>",
-                "Go to Ethereum settings on your Ledger device and allow <strong>Contract Data</strong>"
-            ],
-            "buttons": {
-                "test": "Test Contract Data",
-                "dashboard": "Dashboard"
-            }
-        }
-    },
-    "inheritance": {
-        "enable": "Enable",
-        "youDontHaveHeirs": "You dont have any heirs yet",
-        "active": "Active",
-        "enabled": "Enabled",
-        "changed": "Changed",
-        "notActivated": "Not Activated",
-        "title": "Inheritance",
-        "inheritanceLetsList": "Ready to proceed?",
-        "becauseDecentralize": "Because we are a decentralized protocol",
-        "youWillAlwaysBeAbleToChange": "You will always be able to change these settings",
-        "listed": "Confirmed. Let’s move on to the last step",
-        "defer": "Defer",
-        "heartBeat": "Heart-beat",
-        "inactivityPeriod": "Inactivity period",
-        "dontWorry": "Don't worry, you will always be able to cancel/reset your inactivity time period",
-        "resetExplanation": "You can always reset the timer.",
-        "activate": "Activate",
-        "doItLater": "I’ll do it later",
-        "addInheritance": "Add Inheritance",
-        "resetButton": {
-            "tooltipDisabled": "There are no changes"
-        },
-        "clear": "Clear",
-        "createButton": {
-            "label": "Create Heir",
-            "tooltipDisabled": "There is no more unallocated balance left"
-        },
-        "edit": "Edit",
-        "addingHeir": "Adding Heir",
-        "editingHeir": "Editing Heir",
-        "drawer": {
-            "create": {
-                "title": "Create Heir",
-                "beneficiary": "Beneficiary wallet",
-                "placeholder": "Address",
-                "percent": "Percent",
-                "buttons": {
-                    "create": "Create"
-                }
-            },
-            "set": {
-                "title": "Set Heir",
-                "beneficiary": "Beneficiary wallet",
-                "placeholder": "Address",
-                "percent": "Percent",
-                "buttons": {
-                    "create": "Create"
-                }
-            },
-            "edit": {
-                "title": "Edit Heir",
-                "info": "",
-                "beneficiary": "Beneficiary Wallet",
-                "placeholder": "Address",
-                "percent": "Percent",
-                "buttons": {
-                    "update": "Update"
-                }
-            },
-            "cancel": "Cancel"
-        }
-    },
-    "tokens": {
-        "title": "Tokens",
-        "notAvailable": [
-            "Not available.",
-            "Tokens will be available soon."
-        ],
-        "notFound": "No tokens detected",
-        "selectMessage": "Please, select token:",
-        "noSelect": "No token selected"
-    },
-    "history": {
-        "title": "History",
-        "noTransactions": "No transactions yet."
-    },
-    "input": {
-        "errors": {
-            "overBalance": "Over balance",
-            "lessThan": "Less than balance",
-            "wrongAddress": "Invalid address",
-            "same": "Same as \"from\" address"
-        }
-    },
-    "createWallet": {
-        "title": [
-            "Create you first",
-            "Multi-Layer On-Chain Wallet"
-        ],
-        "message": "Kirobo’s on-chain wallet harnesses the power of smart contracts. Kirobo’s on-chain wallet can make any standard wallet to become a Super Attractive Wallet",
-        "features": {
-            "title": "Features:",
-            "blocks": [
-                [
-                    "Backup System",
-                    "Bank vault for seed? nah.."
-                ],
-                [
-                    "Inheritance System",
-                    "Cuz you dont need money when you're dead."
-                ],
-                [
-                    "Payment Channel System",
-                    "Will be available soon"
-                ],
-                [
-                    "Tokens",
-                    "Choose your tokens"
-                ]
-            ]
-        },
-        "bottomMessage": "You're 1 step from having your own Multi layer on chain wallet, DO IT!",
-        "button": "Let's do it!"
+    "mobileColumns": {
+      "tokenName": "Token name",
+      "amount": "Amount"
     }
+  },
+  "unlockInfo": {
+    "create": "Create a vault and start protecting your funds by using the backup and inheritance system",
+    "send": "Send & Receive funds",
+    "protect": "Protect by adding Backup wallet",
+    "inheritance": "Inheritance system"
+  },
+  "backup": {
+    "backupCreationProcessWarning": "Your’e in a backup creation process, please connect with your backup wallet to approve the request",
+    "claimOwnership": "Claim ownership",
+    "dontHaveBackup": "You do not have a backup wallet yet ",
+    "timerDescription": "Once the timer runs out, the vault enters a standby mode and allows your backup wallet to take ownership. The timer is defined in pause mode and can be started by either the main wallet or the backup wallet",
+    "createDescription": "Add backup wallet to your vault and protect your money",
+    "enterAddress": "Enter your backup wallet address",
+    "addBackup": "Add Backup",
+    "loginToApprove": "log in with your backup wallet and approve the request to register the wallet",
+    "myBackup": "My Backup",
+    "approveDescription": "Approve and become the backup owner for this Liquid Vault",
+    "summary": "Summary",
+    "summaryDescription": "Please make sure everything is as you wish",
+    "drawer": {
+      "instructions": {
+        "title": "Set backup"
+      },
+      "deleteInstructions": {
+        "title": "Remove Backup"
+      },
+      "centerMessage": {
+        "title": "Setup backup wallet",
+        "message": "If you are the owner of BackupWallet, Login with BackupWallet and approve request, or wait until the BackupWallet owner will respond."
+      },
+      "approve": {
+        "instructions": {
+          "title": "Pending BackupWallet"
+        },
+        "title": "This account was defined as BackupWallet",
+        "addressTitle": "Wallet address that set you up",
+        "message": "If you approve, this account will only be BackupWallet as long as",
+        "buttons": {
+          "approve": "Approve",
+          "disApprove": "Disapprove"
+        }
+      },
+      "startTimer": {
+        "title": "Start timer.",
+        "message": "If you start the timer, you will be able to get ownership after the time's up",
+        "buttons": {
+          "start": "Start timer"
+        }
+      },
+      "reclaim": {
+        "instructions": {
+          "title": "Reclaim ownership"
+        },
+        "actions": {
+          "reclaim": "Reclaim",
+          "claim": "Claim"
+        }
+      },
+      "resetTimer": {
+        "instructions": {
+          "title": "Reset Timer"
+        },
+        "message": "Current time left",
+        "buttons": {
+          "reset": "Reset"
+        }
+      }
+    },
+    "button": "Send request",
+    "messages": {
+      "waitingToRespond": "Waiting for backup to respond...",
+      "waitingForApproval": "Waiting for backup request approval",
+      "waitingForActivation": "Waiting for activation...",
+      "activated": "Backup activated",
+      "noBackup": "No backup detected"
+    },
+    "details": {
+      "title": "Backup-Wallet",
+      "subTitleAddress": "Backup-Wallet address",
+      "ownerAddress": "Owner address",
+      "timeout": "Timeout",
+      "edit": "Edit Backup",
+      "timeLeft": "Timeleft",
+      "timer": "Timer",
+      "reset": "Reset"
+    }
+  },
+  "navigation": {
+    "404": "Page not found",
+    "unlock": "Please, unlock your wallet"
+  },
+  "tooltip": {
+    "copy": "Copy",
+    "logOut": "Log out"
+  },
+  "header": {
+    "network": {
+      "hover": "Internet connectivity status"
+    },
+    "account": {
+      "hover": "Current account"
+    }
+  },
+  "wallets": {
+    "noMultiWallet": {
+      "notDetected": "No Multi-Layer On-Chain Wallet detected.",
+      "createNew": "You should create On-chain Wallet."
+    }
+  },
+  "dashboard": {
+    "left": {
+      "label": "Regular Wallet"
+    },
+    "right": {
+      "label": "Multi-Layer On-Chain Wallet",
+      "ownerWallet": "Owner wallet address",
+      "buttons": {
+        "approve": "Approve / Disapprove"
+      }
+    },
+    "address": "Address"
+  },
+  "send": {
+    "instructions": {
+      "title": "Transfer money"
+    }
+  },
+  "unlock": {
+    "subTitle": "Kirobo Safe is the most trusted platform to manage digital assets. Here is how to get started:",
+    "metamask": {
+      "noMetamask": "No MetaMask detected, please install MetaMask to you web browser"
+    },
+    "dialog": {
+      "title": "Unlock Ledger Wallet",
+      "instructions": [
+        "Make sure your Ledger device is connected",
+        "Make sure you installed Ethereum on your Ledger device via <a target=\"_blank\" rel=\"external\" href=\"https://www.ledger.com/pages/ledger-live\">Ledger Live</a>",
+        "Go to Ethereum settings on your Ledger device and allow <strong>Contract Data</strong>"
+      ],
+      "buttons": {
+        "test": "Test Contract Data",
+        "dashboard": "Dashboard"
+      }
+    }
+  },
+  "inheritance": {
+    "enable": "Enable",
+    "youDontHaveHeirs": "You dont have any heirs yet",
+    "active": "Active",
+    "enabled": "Enabled",
+    "changed": "Changed",
+    "notActivated": "Not Activated",
+    "title": "Inheritance",
+    "inheritanceLetsList": "Ready to proceed?",
+    "becauseDecentralize": "Because we are a decentralized protocol",
+    "youWillAlwaysBeAbleToChange": "You will always be able to change these settings",
+    "listed": "Confirmed. Let’s move on to the last step",
+    "defer": "Defer",
+    "heartBeat": "Heart-beat",
+    "inactivityPeriod": "Inactivity period",
+    "dontWorry": "Don't worry, you will always be able to cancel/reset your inactivity time period",
+    "resetExplanation": "You can always reset the timer.",
+    "activate": "Activate",
+    "doItLater": "I’ll do it later",
+    "addInheritance": "Add Inheritance",
+    "resetButton": {
+      "tooltipDisabled": "There are no changes"
+    },
+    "clear": "Clear",
+    "createButton": {
+      "label": "Create Heir",
+      "tooltipDisabled": "There is no more unallocated balance left"
+    },
+    "edit": "Edit",
+    "addingHeir": "Adding Heir",
+    "editingHeir": "Editing Heir",
+    "drawer": {
+      "create": {
+        "title": "Create Heir",
+        "beneficiary": "Beneficiary wallet",
+        "placeholder": "Address",
+        "percent": "Percent",
+        "buttons": {
+          "create": "Create"
+        }
+      },
+      "set": {
+        "title": "Set Heir",
+        "beneficiary": "Beneficiary wallet",
+        "placeholder": "Address",
+        "percent": "Percent",
+        "buttons": {
+          "create": "Create"
+        }
+      },
+      "edit": {
+        "title": "Edit Heir",
+        "info": "",
+        "beneficiary": "Beneficiary Wallet",
+        "placeholder": "Address",
+        "percent": "Percent",
+        "buttons": {
+          "update": "Update"
+        }
+      },
+      "cancel": "Cancel"
+    }
+  },
+  "tokens": {
+    "title": "Tokens",
+    "notAvailable": [
+      "Not available.",
+      "Tokens will be available soon."
+    ],
+    "notFound": "No tokens detected",
+    "selectMessage": "Please, select token:",
+    "noSelect": "No token selected"
+  },
+  "history": {
+    "title": "History",
+    "noTransactions": "No transactions yet."
+  },
+  "input": {
+    "errors": {
+      "overBalance": "Over balance",
+      "lessThan": "Less than balance",
+      "wrongAddress": "Invalid address",
+      "same": "Same as \"from\" address"
+    }
+  },
+  "createWallet": {
+    "title": [
+      "Create you first",
+      "Multi-Layer On-Chain Wallet"
+    ],
+    "message": "Kirobo’s on-chain wallet harnesses the power of smart contracts. Kirobo’s on-chain wallet can make any standard wallet to become a Super Attractive Wallet",
+    "features": {
+      "title": "Features:",
+      "blocks": [
+        [
+          "Backup System",
+          "Bank vault for seed? nah.."
+        ],
+        [
+          "Inheritance System",
+          "Cuz you dont need money when you're dead."
+        ],
+        [
+          "Payment Channel System",
+          "Will be available soon"
+        ],
+        [
+          "Tokens",
+          "Choose your tokens"
+        ]
+      ]
+    },
+    "bottomMessage": "You're 1 step from having your own Multi layer on chain wallet, DO IT!",
+    "button": "Let's do it!"
+  }
 }
