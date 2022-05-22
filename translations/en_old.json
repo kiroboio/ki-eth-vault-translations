@@ -65,7 +65,8 @@
     "activities": "Activities",
     "transfer": "Transfer",
     "receive": "Receive",
-    "loadingItems": "Loading Items"
+    "loadingItems": "Loading Items",
+    "test": "Test"
   },
   "table": {
     "columns": {
