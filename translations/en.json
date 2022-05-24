@@ -12,8 +12,7 @@
     "to": "to",
     "from": "from",
     "pending": "Pending",
-    "done": "Done",
-    "test": "Test"
+    "done": "Done"
   },
   "general": {
     "sendNft": "Send Nfts",
