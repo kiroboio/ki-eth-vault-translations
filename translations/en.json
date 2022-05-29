@@ -178,6 +178,8 @@
     "inactivityDesc": "When the timer hits 0 your assets will be sent to your heirs. ",
     "editHeir": "edit heir",
     "totalInUse": "total in use",
+    "total": "total",
+    "heir": "heir",
     "left": "left",
     "save": "save",
     "add": "Add",
