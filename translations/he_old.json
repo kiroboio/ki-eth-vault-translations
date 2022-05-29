@@ -4,5 +4,8 @@
     "rejected": "",
     "test": "$KEY",
     "lol": "general.lol"
+  },
+  "inheritance": {
+    "heirAddress": "heir address"
   }
 }

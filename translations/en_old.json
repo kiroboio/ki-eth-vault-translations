@@ -292,7 +292,8 @@
         }
       },
       "cancel": "Cancel"
-    }
+    },
+    "heirAddress": "heir address"
   },
   "tokens": {
     "title": "Tokens",
