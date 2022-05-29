@@ -66,6 +66,7 @@
     "createVaultFirst": "Create a vault first",
     "send": "Send",
     "vaultBalance": "Vault balance",
+    "error": "error",
     "created": "Vault created",
     "open": "Open",
     "install": "Install",

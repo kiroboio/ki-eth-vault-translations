@@ -49,7 +49,11 @@
     "fromYourVault": "From Your Vault",
     "fromYourWallet": "From Your Wallet",
     "toMoveAssets": "To move assets to your Vault press on desired one",
-    "pressMoveButton": "Press move button"
+    "pressMoveButton": "Press move button",
+    "failed": "Failed",
+    "rejected": "rejected",
+    "test": "$KEY",
+    "lol": "general.lol"
   },
   "nft": {
     "moveNft": "Move NFT",
@@ -292,10 +296,7 @@
   },
   "tokens": {
     "title": "Tokens",
-    "notAvailable": [
-      "Not available.",
-      "Tokens will be available soon."
-    ],
+    "notAvailable": ["Not available.", "Tokens will be available soon."],
     "notFound": "No tokens detected",
     "selectMessage": "Please, select token:",
     "noSelect": "No token selected"
@@ -313,30 +314,15 @@
     }
   },
   "createWallet": {
-    "title": [
-      "Create you first",
-      "Multi-Layer On-Chain Wallet"
-    ],
+    "title": ["Create you first", "Multi-Layer On-Chain Wallet"],
     "message": "Kirobo’s on-chain wallet harnesses the power of smart contracts. Kirobo’s on-chain wallet can make any standard wallet to become a Super Attractive Wallet",
     "features": {
       "title": "Features:",
       "blocks": [
-        [
-          "Backup System",
-          "Bank vault for seed? nah.."
-        ],
-        [
-          "Inheritance System",
-          "Cuz you dont need money when you're dead."
-        ],
-        [
-          "Payment Channel System",
-          "Will be available soon"
-        ],
-        [
-          "Tokens",
-          "Choose your tokens"
-        ]
+        ["Backup System", "Bank vault for seed? nah.."],
+        ["Inheritance System", "Cuz you dont need money when you're dead."],
+        ["Payment Channel System", "Will be available soon"],
+        ["Tokens", "Choose your tokens"]
       ]
     },
     "bottomMessage": "You're 1 step from having your own Multi layer on chain wallet, DO IT!",
