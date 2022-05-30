@@ -34,7 +34,8 @@
     "totalTransferred": "",
     "left": "",
     "vault": "",
-    "tokens": "",
+    "summary": "סיכום",
+    "assets": "assets",
     "edit": "",
     "activationDate": "",
     "submit": "",
@@ -47,6 +48,7 @@
     "inWallet": "",
     "connectedWallet": "",
     "balance": "",
+    "tokens": "",
     "nfts": "",
     "moveAssets": "",
     "moveAssetsDescription": "",
@@ -66,7 +68,7 @@
     "createVaultFirst": "",
     "send": "",
     "vaultBalance": "",
-    "error": "error",
+    "rejected": "",
     "created": "",
     "open": "",
     "install": "",
@@ -96,8 +98,7 @@
     "addFunds": "",
     "connectedWalletBalance": "",
     "reset": "",
-    "prev": "",
-    "summary": "סיכום"
+    "prev": ""
   },
   "backup": {
     "timer": "",
@@ -172,6 +173,7 @@
     "letsAdd": "",
     "howItsWorksDescription": "",
     "howItsWorks": "",
+    "inheritanceLetsList": "מוכן להמשיך?",
     "selectedAssets": "",
     "willBeActivatedOn": "",
     "onboardingDesc": "",
@@ -186,8 +188,7 @@
     "add": "",
     "inheritanceActivation": "",
     "heartBeatTimer": "",
-    "helpInfo": "",
-    "inheritanceLetsList": "מוכן להמשיך?"
+    "helpInfo": ""
   },
   "nft": {
     "noNfts": "",

@@ -51,9 +51,9 @@
     "toMoveAssets": "To move assets to your Vault press on desired one",
     "pressMoveButton": "Press move button",
     "failed": "Failed",
-    "rejected": "rejected",
     "test": "$KEY",
-    "lol": "general.lol"
+    "lol": "general.lol",
+    "error": "error"
   },
   "nft": {
     "moveNft": "Move NFT",
@@ -239,7 +239,6 @@
     "changed": "Changed",
     "notActivated": "Not Activated",
     "title": "Inheritance",
-    "inheritanceLetsList": "Ready to proceed?",
     "becauseDecentralize": "Because we are a decentralized protocol",
     "youWillAlwaysBeAbleToChange": "You will always be able to change these settings",
     "listed": "Confirmed. Let’s move on to the last step",

@@ -1,9 +1,9 @@
 {
   "general": {
     "failed": "",
-    "rejected": "",
     "test": "$KEY",
-    "lol": "general.lol"
+    "lol": "general.lol",
+    "error": "error"
   },
   "inheritance": {
     "heirAddress": "heir address"
