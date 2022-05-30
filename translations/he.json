@@ -96,7 +96,8 @@
     "addFunds": "",
     "connectedWalletBalance": "",
     "reset": "",
-    "prev": ""
+    "prev": "",
+    "summary": "סיכום"
   },
   "backup": {
     "timer": "",
@@ -185,7 +186,8 @@
     "add": "",
     "inheritanceActivation": "",
     "heartBeatTimer": "",
-    "helpInfo": ""
+    "helpInfo": "",
+    "inheritanceLetsList": "מוכן להמשיך?"
   },
   "nft": {
     "noNfts": "",

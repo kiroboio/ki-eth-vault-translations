@@ -96,7 +96,9 @@
     "addFunds": "Add Funds",
     "connectedWalletBalance": "Connected wallet balance",
     "reset": "reset",
-    "prev": "Prev"
+    "prev": "Prev",
+    "summary": "Summary",
+    "assets": "Assets"
   },
   "backup": {
     "timer": "Timer",
