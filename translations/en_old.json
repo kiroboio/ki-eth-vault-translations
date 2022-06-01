@@ -53,7 +53,8 @@
     "failed": "Failed",
     "test": "$KEY",
     "lol": "general.lol",
-    "error": "error"
+    "error": "error",
+    "enable": "Enable"
   },
   "nft": {
     "moveNft": "Move NFT",
@@ -170,7 +171,8 @@
       "edit": "Edit Backup",
       "timeLeft": "Timeleft",
       "timer": "Timer",
-      "reset": "Reset"
+      "reset": "Reset",
+      "hasStarted": "Has started"
     }
   },
   "navigation": {
@@ -292,7 +294,8 @@
       },
       "cancel": "Cancel"
     },
-    "heirAddress": "heir address"
+    "heirAddress": "heir address",
+    "creatingDesc": "Choose up to eight heirs for percentage-based allocation."
   },
   "tokens": {
     "title": "Tokens",

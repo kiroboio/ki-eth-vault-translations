@@ -16,8 +16,6 @@
   },
   "general": {
     "sendNft": "",
-    "enable": "",
-    "delete": "",
     "clear": "",
     "next": "",
     "sendRequest": "",
@@ -77,6 +75,7 @@
     "change": "",
     "confirm": "",
     "cancel": "",
+    "delete": "",
     "reject": "",
     "max": "",
     "moving": "",
@@ -103,8 +102,7 @@
   "backup": {
     "timer": "",
     "details": {
-      "start": "",
-      "hasStarted": ""
+      "start": ""
     },
     "backupWallet": "",
     "approveTitle": "",
@@ -151,7 +149,6 @@
     "createMoreHeirsDesc": "",
     "heirs": "",
     "maxHeirsTip": "",
-    "creatingDesc": "",
     "timerReachZero": "",
     "resetTimerAnyTime": "",
     "cancelAnyTime": "",

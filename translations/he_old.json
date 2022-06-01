@@ -3,9 +3,16 @@
     "failed": "",
     "test": "$KEY",
     "lol": "general.lol",
-    "error": "error"
+    "error": "error",
+    "enable": ""
   },
   "inheritance": {
-    "heirAddress": "heir address"
+    "heirAddress": "heir address",
+    "creatingDesc": ""
+  },
+  "backup": {
+    "details": {
+      "hasStarted": ""
+    }
   }
 }

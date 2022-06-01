@@ -16,8 +16,6 @@
   },
   "general": {
     "sendNft": "Send Nfts",
-    "enable": "Enable",
-    "delete": "Remove",
     "clear": "Remove",
     "next": "Next",
     "sendRequest": "Send Request",
@@ -77,6 +75,7 @@
     "change": "Change",
     "confirm": "Confirm",
     "cancel": "cancel",
+    "delete": "Remove",
     "reject": "Reject",
     "max": "max",
     "moving": "Moving",
@@ -103,8 +102,7 @@
   "backup": {
     "timer": "Timer",
     "details": {
-      "start": "Start timer",
-      "hasStarted": "Has started"
+      "start": "Start timer"
     },
     "backupWallet": "Backup wallet",
     "approveTitle": "wants you to become a backup wallet",
@@ -151,7 +149,6 @@
     "createMoreHeirsDesc": "You've chosen your first heir. You can add more, or move on to the next step.",
     "heirs": "Heirs",
     "maxHeirsTip": "Max: 8 heirs",
-    "creatingDesc": "Choose up to eight heirs for percentage-based allocation.",
     "timerReachZero": "When the timer reaches 0 the funds will be sent to your heirs",
     "resetTimerAnyTime": "You can reset the timer at any time",
     "cancelAnyTime": "You can cancel your inheritance settings at any time",
