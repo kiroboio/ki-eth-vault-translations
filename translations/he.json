@@ -27,8 +27,6 @@
     "months": "",
     "years": "",
     "coverage": "",
-    "timer": "",
-    "transferDate": "",
     "totalTransferred": "",
     "left": "",
     "vault": "",
@@ -154,17 +152,10 @@
     "cancelAnyTime": "",
     "recommended6MonthsAhead": "",
     "myInheritance": "",
-    "clearInheritance": "",
-    "resetTimer": "",
-    "setTimer": "",
-    "saveButton": {
-      "label": ""
-    },
-    "resetButton": {
-      "label": ""
-    },
     "inheritance": "יְרוּשָׁה",
     "description": "",
+    "clearInheritance": "",
+    "resetTimer": "",
     "intro": "אל תתנו לבלוקצ'יין לרשת את הכסף שלכם",
     "introDescription": "",
     "letsAdd": "",

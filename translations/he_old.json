@@ -4,11 +4,20 @@
     "test": "$KEY",
     "lol": "general.lol",
     "error": "error",
-    "enable": ""
+    "enable": "",
+    "timer": "",
+    "transferDate": ""
   },
   "inheritance": {
     "heirAddress": "heir address",
-    "creatingDesc": ""
+    "creatingDesc": "",
+    "setTimer": "",
+    "saveButton": {
+      "label": ""
+    },
+    "resetButton": {
+      "label": ""
+    }
   },
   "backup": {
     "details": {

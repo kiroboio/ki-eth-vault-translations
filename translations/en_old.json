@@ -54,7 +54,9 @@
     "test": "$KEY",
     "lol": "general.lol",
     "error": "error",
-    "enable": "Enable"
+    "enable": "Enable",
+    "timer": "timer",
+    "transferDate": "Transfer date"
   },
   "nft": {
     "moveNft": "Move NFT",
@@ -253,7 +255,8 @@
     "doItLater": "I’ll do it later",
     "addInheritance": "Add Inheritance",
     "resetButton": {
-      "tooltipDisabled": "There are no changes"
+      "tooltipDisabled": "There are no changes",
+      "label": "Reset Changes"
     },
     "clear": "Clear",
     "createButton": {
@@ -295,7 +298,11 @@
       "cancel": "Cancel"
     },
     "heirAddress": "heir address",
-    "creatingDesc": "Choose up to eight heirs for percentage-based allocation."
+    "creatingDesc": "Choose up to eight heirs for percentage-based allocation.",
+    "setTimer": "Set Timer",
+    "saveButton": {
+      "label": "Save Changes"
+    }
   },
   "tokens": {
     "title": "Tokens",

@@ -27,8 +27,6 @@
     "months": "months",
     "years": "years",
     "coverage": "Coverage",
-    "timer": "timer",
-    "transferDate": "Transfer date",
     "totalTransferred": "Total transferred",
     "left": "left",
     "vault": "Vault",
@@ -154,17 +152,10 @@
     "cancelAnyTime": "You can cancel your inheritance settings at any time",
     "recommended6MonthsAhead": "We recommend setting the timer at least 6 months ahead",
     "myInheritance": "My Inheritance",
-    "clearInheritance": "Clear Inheritance",
-    "resetTimer": "Reset Timer",
-    "setTimer": "Set Timer",
-    "saveButton": {
-      "label": "Save Changes"
-    },
-    "resetButton": {
-      "label": "Reset Changes"
-    },
     "inheritance": "Inheritance",
     "description": "The Vault Backup System protects you in case you lose your wallet, allowing you to access your money with your backup wallet",
+    "clearInheritance": "Clear Inheritance",
+    "resetTimer": "Reset Timer",
     "intro": "Don't let the blockchain inherit your money",
     "introDescription": "Finally a decentralized solution to crypto inheritance transfers. Kirobo inheritance enables you to allocate assets to up to eight heirs in case the worst happens.",
     "letsAdd": "CREATE INHERITANCE",
