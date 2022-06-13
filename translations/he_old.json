@@ -6,8 +6,7 @@
     "error": "error",
     "enable": "",
     "timer": "",
-    "transferDate": "",
-    "ethPriceMore": "eth price more"
+    "transferDate": ""
   },
   "inheritance": {
     "heirAddress": "heir address",
