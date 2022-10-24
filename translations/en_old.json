@@ -21,7 +21,7 @@
     "waitingForActivation": "Waiting for activation...",
     "instructionsMessage": "If you plan to move a large amount of Ether or tokens, you should send a test transaction of a small amount to the destination wallet first to ensure everything goes as planned. Optional, but highly recommended",
     "paymentMessage": "Payment will be taken upon activation.",
-    "wrongNetwork": "This application currently supports only Rinkeby network.",
+    "wrongNetwork": "This application currently supports only Goerli network.",
     "newTransaction": "New transaction",
     "connectedWith": "Connected with",
     "liquidVault": "Liquid vault",
@@ -175,7 +175,8 @@
       "timer": "Timer",
       "reset": "Reset",
       "hasStarted": "Has started"
-    }
+    },
+    "creatingBackup": "Creating Backup"
   },
   "navigation": {
     "404": "Page not found",
@@ -302,7 +303,8 @@
     "setTimer": "Set Timer",
     "saveButton": {
       "label": "Save Changes"
-    }
+    },
+    "deleteInheritance": "Delete Inheritance"
   },
   "tokens": {
     "title": "Tokens",

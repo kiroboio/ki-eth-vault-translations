@@ -17,11 +17,14 @@
     },
     "resetButton": {
       "label": ""
-    }
+    },
+    "clearInheritance": "",
+    "deleteInheritance": "delete inheritance"
   },
   "backup": {
     "details": {
       "hasStarted": ""
-    }
+    },
+    "creatingBackup": ""
   }
 }
