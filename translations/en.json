@@ -273,5 +273,7 @@
   "runningPeriod": "Running period",
   "fctGivenPeriod": "The FCT will be active at the given period",
   "maxGas": "Max gas",
-  "maxGasPriceForFct": "The maximum gas price your'e willing to pay for this FCT"
+  "maxGasPriceForFct": "The maximum gas price your'e willing to pay for this FCT",
+  "twitter": "Twitter",
+  "linkedin": "Linkedin"
 }
