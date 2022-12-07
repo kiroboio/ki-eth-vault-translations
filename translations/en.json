@@ -268,5 +268,10 @@
   "version": "Version",
   "deleteProject": "Delete Project",
   "no": "No",
-  "yes": "Yes"
+  "yes": "Yes",
+  "describeFct": "Give it a good name to describe what the FCT does",
+  "runningPeriod": "Running period",
+  "fctGivenPeriod": "The FCT will be active at the given period",
+  "maxGas": "Max gas",
+  "maxGasPriceForFct": "The maximum gas price your'e willing to pay for this FCT"
 }
