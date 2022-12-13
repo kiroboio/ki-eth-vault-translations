@@ -275,5 +275,7 @@
   "maxGas": "Max gas",
   "maxGasPriceForFct": "The maximum gas price your'e willing to pay for this FCT",
   "twitter": "Twitter",
-  "linkedin": "Linkedin"
+  "linkedin": "Linkedin",
+  "changeName": "Change name",
+  "created": "Created"
 }
