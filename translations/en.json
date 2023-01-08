@@ -279,5 +279,6 @@
   "changeName": "Change name",
   "created": "Created",
   "export": "Export",
-  "duplicate": "Duplicate"
+  "duplicate": "Duplicate",
+  "calls": "Calls"
 }
