@@ -280,5 +280,6 @@
   "created": "Created",
   "export": "Export",
   "duplicate": "Duplicate",
-  "calls": "Calls"
+  "calls": "Calls",
+  "call": "Call"
 }
