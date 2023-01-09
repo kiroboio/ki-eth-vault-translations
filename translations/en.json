@@ -289,5 +289,6 @@
   "fctVaultNotFound": "FCT Vault not found",
   "createOne": "Create one",
   "creatingYourFctVault": "Creating your FCT Vault",
-  "backupFctVaultIsConnected": "Backup FCT vault is connected, switch main wallet in order to use this app."
+  "backupFctVaultIsConnected": "Backup FCT vault is connected, switch main wallet in order to use this app.",
+  "block": "Block"
 }
