@@ -281,5 +281,13 @@
   "export": "Export",
   "duplicate": "Duplicate",
   "calls": "Calls",
-  "call": "Call"
+  "call": "Call",
+  "noActiveFcts": "No Active FCTs",
+  "noHistory": "No History",
+  "noConnectedWallet": "No connected wallet",
+  "networkNotSupported": "Network not supported, Use Goerli testnet.",
+  "fctVaultNotFound": "FCT Vault not found",
+  "createOne": "Create one",
+  "creatingYourFctVault": "Creating your FCT Vault",
+  "backupFctVaultIsConnected": "Backup FCT vault is connected, switch main wallet in order to use this app."
 }
