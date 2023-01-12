@@ -290,5 +290,7 @@
   "createOne": "Create one",
   "creatingYourFctVault": "Creating your FCT Vault",
   "backupFctVaultIsConnected": "Backup FCT vault is connected, switch main wallet in order to use this app.",
-  "block": "Block"
+  "block": "Block",
+  "pause": "Pause",
+  "maxGasPrice": "Max Gas Price"
 }
