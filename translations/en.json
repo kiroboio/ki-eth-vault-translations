@@ -292,5 +292,6 @@
   "backupFctVaultIsConnected": "Backup FCT vault is connected, switch main wallet in order to use this app.",
   "block": "Block",
   "pause": "Pause",
-  "maxGasPrice": "Max Gas Price"
+  "maxGasPrice": "Max Gas Price",
+  "recurrency": "Recurrency"
 }
