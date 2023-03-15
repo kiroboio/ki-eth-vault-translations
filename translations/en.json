@@ -293,5 +293,7 @@
   "block": "Block",
   "pause": "Pause",
   "maxGasPrice": "Max Gas Price",
-  "recurrency": "Recurrency"
+  "recurrency": "Recurrency",
+  "fctRepeatInfo": "How many times should this FCT be called?",
+  "fctChillTimeInfo": "How much time should pass between each call?"
 }
