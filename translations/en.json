@@ -295,5 +295,15 @@
   "maxGasPrice": "Max Gas Price",
   "recurrency": "Recurrency",
   "fctRepeatInfo": "How many times should this FCT be called?",
-  "fctChillTimeInfo": "How much time should pass between each call?"
+  "fctChillTimeInfo": "How much time should pass between each call?",
+  "withdraw": "Withdraw",
+  "showAssets": "Show Assets",
+  "hideAssets": "Hide assets",
+  "activeFcts": "Active FCTs",
+  "myProjects": "My projects",
+  "buyKiro": "Buy KIRO",
+  "myFcts": "My FCTs",
+  "importFct": "Import FCT",
+  "ethCompliance": "Due to compliance considerations in USA, the system will work with ETH instead of KIRO, despite higher costs.",
+  "useTemplate": "Use Template"
 }
