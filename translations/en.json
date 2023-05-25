@@ -305,5 +305,6 @@
   "myFcts": "My FCTs",
   "importFct": "Import FCT",
   "ethCompliance": "Due to compliance considerations in USA, the system will work with ETH instead of KIRO, despite higher costs.",
-  "useTemplate": "Use Template"
+  "useTemplate": "Use Template",
+  "control": "Control"
 }
