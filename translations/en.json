@@ -307,5 +307,6 @@
   "ethCompliance": "Due to compliance considerations in USA, the system will work with ETH instead of KIRO, despite higher costs.",
   "useTemplate": "Use Template",
   "control": "Control",
-  "recommendedFctTemplates": "Recommended FCT Templates"
+  "recommendedFctTemplates": "Recommended FCT Templates",
+  "createTemplate": "Create Template"
 }
