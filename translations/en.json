@@ -317,5 +317,6 @@
   "connectedWallet": "Connected Wallet",
   "onChainWalletBalance": "On-Chain wallet balance",
   "receiveAssetsToYourOnChainWallet": "Receive assets to your On-Chain Wallet",
-  "receiveAssetsToYourOnChainWalletDescription": "This is the address of your On-Chain Wallet. Deposit funds by scanning the QR code or copying the address below."
+  "receiveAssetsToYourOnChainWalletDescription": "This is the address of your On-Chain Wallet. Deposit funds by scanning the QR code or copying the address below.",
+  "insufficientPowerForActiveFcts": "Insufficient power for active FCTs"
 }
