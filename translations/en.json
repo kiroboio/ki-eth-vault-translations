@@ -314,5 +314,6 @@
   "sendFromConnectedWallet": "Send from Connected Wallet",
   "moveToOnChainWallet": "Move to On-Chain Wallet",
   "onChainWallet": "On-Chain Wallet",
-  "connectedWallet": "Connected Wallet"
+  "connectedWallet": "Connected Wallet",
+  "onChainWalletBalance": "On-Chain wallet balance"
 }
