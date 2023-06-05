@@ -308,5 +308,6 @@
   "useTemplate": "Use Template",
   "control": "Control",
   "recommendedFctTemplates": "Recommended FCT Templates",
-  "createTemplate": "Create Template"
+  "createTemplate": "Create Template",
+  "deleteTemplate": "Delete Template"
 }
