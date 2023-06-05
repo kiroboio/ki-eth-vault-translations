@@ -312,7 +312,7 @@
   "deleteTemplate": "Delete Template",
   "sendFromOnChainWallet": "Send from On-Chain Wallet",
   "sendFromConnectedWallet": "Send from Connected Wallet",
-  "moveToOnChainWallet": "Move to On-Chain wallet",
+  "moveToOnChainWallet": "Move to On-Chain Wallet",
   "onChainWallet": "On-Chain Wallet",
   "connectedWallet": "Connected Wallet"
 }
