@@ -286,10 +286,10 @@
   "noHistory": "No History",
   "noConnectedWallet": "No connected wallet",
   "networkNotSupported": "Network not supported, Use Goerli testnet.",
-  "fctVaultNotFound": "FCT Vault not found",
+  "onChainWalletNotFound": "On-Chain Wallet not found",
   "createOne": "Create one",
-  "creatingYourFctVault": "Creating your FCT Vault",
-  "backupFctVaultIsConnected": "Backup FCT vault is connected, switch main wallet in order to use this app.",
+  "creatingYourOnChainWallet": "Creating your On-Chain Wallet",
+  "backupOnChainIsConnected": "Backup On-Chain Wallet is connected, switch main wallet in order to use this app.",
   "block": "Block",
   "pause": "Pause",
   "maxGasPrice": "Max Gas Price",
@@ -309,5 +309,10 @@
   "control": "Control",
   "recommendedFctTemplates": "Recommended FCT Templates",
   "createTemplate": "Create Template",
-  "deleteTemplate": "Delete Template"
+  "deleteTemplate": "Delete Template",
+  "sendFromOnChainWallet": "Send from On-Chain Wallet",
+  "sendFromConnectedWallet": "Send from Connected Wallet",
+  "moveToOnChainWallet": "Move to On-Chain wallet",
+  "onChainWallet": "On-Chain Wallet",
+  "connectedWallet": "Connected Wallet"
 }
