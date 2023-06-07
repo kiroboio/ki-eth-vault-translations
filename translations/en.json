@@ -321,5 +321,8 @@
   "insufficientPowerForActiveFcts": "Insufficient power for active FCTs",
   "flexibleTiming": "Flexible Timing",
   "immediateOrSoon": "Immediate or Soon",
-  "futureProof": "Future Proof"
+  "futureProof": "Future Proof",
+  "useThisWhenExactTimingIsNotImportant": "Use this when exact timing is not important",
+  "willRunWhenConditionsAreMetAndNetworkFeesDoNotExceed": "Will run when conditions are met and network fees do not exceed",
+  "willRunWhenConditionsAreMetRegardlessOfNetworkLoad": "Will run when conditions are met, regardless of network load"
 }
